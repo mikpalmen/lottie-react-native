@@ -37,7 +37,6 @@ node_modules/
 npm-debug.log
 Pods/
 build/
-lib/
 
 # BUCK
 buck-out/
